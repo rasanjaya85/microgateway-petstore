@@ -2,7 +2,7 @@
     [docker.dockerConfig]
         enable = true
         name = "petstore"
-        registry = 'index.docker.io/aaquiff'
+	registry = 'index.docker.io/wso2'
         tag = 'v1'
         baseImage = 'wso2/wso2micro-gw:3.0.1'
     [docker.dockerCopyFiles]

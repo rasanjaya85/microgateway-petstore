@@ -26,7 +26,7 @@ tags:
 - name: user
   description: Operations about user
   externalDocs:
-    description: Find out more about our store
+    description: Find out more about our store1
     url: http://swagger.io
 x-wso2-basePath: /petstore/v1
 x-wso2-production-endpoints:

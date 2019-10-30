@@ -31,7 +31,7 @@ tags:
 x-wso2-basePath: /petstore/v1
 x-wso2-production-endpoints:
   urls:
-  - http://www.mocky.io/v2/5d28af622c000066003edbcb
+  - https://wso2micro-gw-service.wso2mgw-staging.svc.cluster.local:9095/petstore/v1/pet/1
 paths:
   "/pet/findByStatus":
     get:

@@ -31,7 +31,7 @@ tags:
 x-wso2-basePath: /petstore/v1
 x-wso2-production-endpoints:
   urls:
-  - https://wso2micro-gw-service.wso2mgwpet-dev.svc.cluster.local/petstore/v1
+  - https://wso2micro-gw-service.wso2mgwpet-dev.svc.cluster.local:9095/petstore/v1
 paths:
   "/pet/findByStatus":
     get:

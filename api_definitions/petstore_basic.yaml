@@ -31,4 +31,4 @@ tags:
 x-wso2-basePath: /petstore/v1
 x-wso2-production-endpoints:
   urls:
-  - https://wso2micro-gw-service.wso2mgwpet-dev.svc.cluster.local/petstore/v1
+  - http://wso2micro-gw-service.wso2mgwpet-dev.svc.cluster.local/petstore/v1
